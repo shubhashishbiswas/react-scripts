@@ -1,0 +1,1 @@
+export { ParentCoachingVideoScroll } from './ParentCoachingVideoScroll';

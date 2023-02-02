@@ -1,0 +1,1 @@
+export { OccupationalTherapyDescription } from './OccupationalTherapyDescription';

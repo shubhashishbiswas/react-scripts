@@ -1,0 +1,1 @@
+export { FeedingTherapyDescription } from './FeedingTherapyDescription';

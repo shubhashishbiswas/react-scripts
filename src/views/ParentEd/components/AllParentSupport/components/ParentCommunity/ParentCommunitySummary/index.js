@@ -1,0 +1,1 @@
+export { ParentCommunitySummary } from './ParentCommunitySummary';

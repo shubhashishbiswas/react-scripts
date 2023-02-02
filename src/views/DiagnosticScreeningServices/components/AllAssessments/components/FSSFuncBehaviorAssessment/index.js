@@ -1,0 +1,1 @@
+export { FSSFuncBehaviorAssessment } from './FSSFuncBehaviorAssessment';

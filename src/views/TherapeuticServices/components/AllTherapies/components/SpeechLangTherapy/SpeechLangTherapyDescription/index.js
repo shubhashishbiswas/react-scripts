@@ -1,0 +1,1 @@
+export { SpeechLangTherapyDescription } from './SpeechLangTherapyDescription';

@@ -1,0 +1,1 @@
+export { ParentCommunityDescription } from './ParentCommunityDescription';

@@ -1,0 +1,1 @@
+export { SpeechLangTherapyVideoScroll } from './SpeechLangTherapyVideoScroll';

@@ -1,0 +1,1 @@
+export { ParentCoachingDescription } from './ParentCoachingDescription';

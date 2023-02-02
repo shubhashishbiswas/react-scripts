@@ -1,0 +1,1 @@
+export { CouplesTherapyDescription } from './CouplesTherapyDescription';

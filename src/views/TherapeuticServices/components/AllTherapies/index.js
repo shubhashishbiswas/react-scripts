@@ -1,0 +1,1 @@
+export { AllTherapies } from './AllTherapies';

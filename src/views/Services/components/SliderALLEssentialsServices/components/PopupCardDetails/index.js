@@ -1,0 +1,1 @@
+export { PopupCardDetails } from './PopupCardDetails';

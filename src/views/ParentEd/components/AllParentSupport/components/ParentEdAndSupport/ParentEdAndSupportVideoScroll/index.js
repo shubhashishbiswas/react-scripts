@@ -1,0 +1,1 @@
+export { ParentEdAndSupportVideoScroll } from './ParentEdAndSupportVideoScroll';

@@ -1,0 +1,1 @@
+export { CouplesTherapyVideoScroll } from './CouplesTherapyVideoScroll';
